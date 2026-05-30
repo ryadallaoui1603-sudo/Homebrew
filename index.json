@@ -1,0 +1,14 @@
+{
+  "store_name": "Ryad Wii Store",
+  "store_author": "Ryad",
+  "apps": [
+    {
+      "id": "wii_sports_resort",
+      "name": "Wii Sports Resort",
+      "version": "1.0",
+      "description": "Installer Wii Sports Resort via MediaFire.",
+      "icon": "",
+      "download": "https://www.mediafire.com/file/qyejumh7mdl0yr4/Wii_Sports_Resort_%255BRZTE01%255D.wbfs/file"
+    }
+  ]
+}
